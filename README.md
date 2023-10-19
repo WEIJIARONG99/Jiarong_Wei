@@ -1,19 +1,24 @@
 # Hello there! 👋
-I'm Jiarong, an autonomous driving engineer. 
+I'm Jiarong, an autonomous driving engineer. In 2021.6, I graduated from Jilin University of China majoring in Vehicle Engineering. In 2023.5, I graduated from Delft University of Technology majoring in Robotics in the Netherlands. My research interest focuses on autonomous driving perception.
 
-![Twitter Follow](https://img.shields.io/twitter/follow/johnDoe?label=Follow)
-![GitHub followers](https://img.shields.io/github/followers/johnDoe?label=Follow&style=social)
+## 🔗 Social media
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=LinkedIn&logoColor=white&link=https://www.linkedin.com/in/YOUR_USERNAME/)](https://www.linkedin.com/in/jiarong-wei-947704239/)
 
-## 🛠️ Technologies & Tools
-- HTML5
-- CSS3
-- JavaScript
-- React
-- Node.js
 
-![Coding](URL_TO_YOUR_GIF)
-![John's GitHub stats](https://github-readme-stats.vercel.app/api?username=johnDoe&show_icons=true&theme=radical)
+## 📄 Curriculum Vitae
+- [Check out my CV!](files/Jiarong_CV.pdf)
 
 ## 📂 Projects
-- [Project 1](URL_TO_PROJECT1) - Brief description
-- [Project 2](URL_TO_PROJECT2) - Brief description
+- [BaSAL: Size-balanced Warm Start Active Learning for LiDAR Semantic Segmentation](https://arxiv.org/abs/2310.08035)
+- [Lely husky robot project](https://github.com/Tony-WJR/Master-Thesis/blob/main/RO47007_MDP_report.pdf)
+- [Storm robot project](https://github.com/Tony-WJR/PDM)
+
+## 🛠️ Technologies & Tools
+- Python
+- C++
+- ROS
+- PyTorch
+- Matlab
+- Arduino
+- CATIA
+- CAD
